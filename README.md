@@ -4,7 +4,9 @@ Violinist - Music Teacher - Aspiring Software Developer - Reader - Gamer - Explo
 ## // Projects
 ### Python
 [Finance Calculator](https://github.com/MarcelloDeidda/finance-calculators)
+
 [Credit Card Validator](https://github.com/MarcelloDeidda/credit-card-validator)
+
 [Ebookstore](https://github.com/MarcelloDeidda/ebookstore)
 
 ### Full-stack

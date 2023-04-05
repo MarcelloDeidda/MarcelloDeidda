@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-* 🌍  I'm based in London
-* 🖼️ Check out my [Portfolio Page](http://marcellodeidda.github.io/)!
-* ✉️  You can contact me at [marcello35@hotmail.it](mailto:marcello35@hotmail.it)
-* 🚀  I'm currently working on [BookApp](http://book-app-e94j.onrender.com/)
-* 🧠  I'm learning React
+* 🌍  Based in London
+* 🖼️  Check out my [Portfolio Page](http://marcellodeidda.github.io/)!
+* ✉️  Contact me at [marcello35@hotmail.it](mailto:marcello35@hotmail.it)
+* 🚀  Currently working on [BookApp](http://book-app-e94j.onrender.com/)
+* 🧠  Learning React & Redux
 * ⚡  Professional violinist and music teacher
 
 ### Skills

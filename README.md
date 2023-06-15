@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  Based in London
 * 🖼️  Check out my [Portfolio Page](http://marcellodeidda.github.io/)!
 * ✉️  Contact me at [marcello35@hotmail.it](mailto:marcello35@hotmail.it)
-* 🚀  Currently working on [BookApp](http://book-app-e94j.onrender.com/)
+* 🚀  Currently working on [BookApp](https://marcellodeidda-bookapp.cyclic.app/)
 * 🧠  Learning React & Redux
 * ⚡  Professional violinist and music teacher
 

@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  Based in London
 * 🖼️  Check out my [Portfolio Page](http://marcellodeidda.github.io/)!
 * ✉️  Contact me at [info@marcellodeidda.com](mailto:info@marcellodeidda.com)
-* 🚀  Currently working on [BookApp](https://marcellodeidda-bookapp.cyclic.app/)
+* 🚀  Currently working on [Prestissimo](https://marcellodeidda-prestissimo.netlify.app/)
 * 🧠  Learning React & Redux
 * ⚡  Professional violinist and music teacher
 

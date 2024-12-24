@@ -9,7 +9,7 @@ Fullstack Developer
 * ✉️  Contact me at [info@marcellodeidda.com](mailto:info@marcellodeidda.com)
 * 🚀  Currently working on [Prestissimo](https://marcellodeidda-prestissimo.netlify.app/)
 * 🧠  Learning React & Redux
-* ⚡  Professional violinist and music teacher
+* ⚡  Junior Web Engineer @ Team RH Fitness
 
 ### Skills
 
